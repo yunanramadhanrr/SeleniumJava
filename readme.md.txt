@@ -23,3 +23,4 @@ Automation testing framework using Selenium Java + JUnit 5.
 ## ▶️ How to Run
 ```bash
 mvn clean test
+
