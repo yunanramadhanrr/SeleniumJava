@@ -1,4 +1,4 @@
-# IntelliJ
+# IntelliJ IDEA
 .idea/
 *.iml
 
@@ -8,5 +8,8 @@ target/
 # Logs
 *.log
 
-# Screenshot (optional)
+# OS
+.DS_Store
+
+# Screenshots (optional)
 screenshots/
